@@ -11,10 +11,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "BOT CUTE GVT",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "",
+        "100007082526325",
         "USERID2"
     ],
     "DATABASE": {
